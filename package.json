@@ -7,7 +7,6 @@
     "test": "node app/server.js",
     "dev": "nodemon app/server.js"
   },
-  "type": "module",
   "keywords": [],
   "author": "MoriMOficial",
   "license": "ISC",

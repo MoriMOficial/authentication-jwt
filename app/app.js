@@ -1,5 +1,8 @@
-import express from 'express';
-import bcrypt from 'bcrypt';
-import jwt from 'jsonwebtoken';
+const express = require('express')
+const bcrypt = require('bcrypt')
+const jwt = require('jsonwebtoken')
 
-export const app = express();
+const app = express();
+
+
+module.exports = app
