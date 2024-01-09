@@ -1,5 +1,5 @@
-Projeto de autenticação com JWT e MongoDB
-==========================================================
+=> Projeto de autenticação com JWT e MongoDB
+
 para iniciar o projeto use:
 
 "npm run test" - node
@@ -7,6 +7,7 @@ para iniciar o projeto use:
 "npm run dev" - nodemon
 
 ==========================================================
+
 APIs utilizadas:
 
 "
