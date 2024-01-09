@@ -73,7 +73,7 @@ const Schema = {
 
 
         if (!checkPassword) {
-            return res.status(422).json({ msg: 'Senhas errada!' })
+            return res.status(422).json({ msg: 'Senha errada!' })
         }
 
         try {
