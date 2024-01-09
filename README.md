@@ -12,8 +12,6 @@ APIs utilizadas:
 
 "
 express,
-
 mongoose,
-
 nodemon
 "
